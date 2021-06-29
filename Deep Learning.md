@@ -15,3 +15,8 @@ Dataset
 ![Backward Pass](./images/backward_pass.png)
 Ajusta los valores de la red mientras se ajusta para acercarse mas al valor adecuado. Se modifican los pesos sumando una cantidad aleatoria.
 
+### Forward pass
+Se calcula que tan ajustados estan la red a base de los pesos actualmente asignados.
+
+### Activation
+
